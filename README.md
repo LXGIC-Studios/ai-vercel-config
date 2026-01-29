@@ -1,5 +1,10 @@
 # ai-vercel-config
 
+[![npm version](https://img.shields.io/npm/v/ai-vercel-config.svg)](https://www.npmjs.com/package/ai-vercel-config)
+[![npm downloads](https://img.shields.io/npm/dm/ai-vercel-config.svg)](https://www.npmjs.com/package/ai-vercel-config)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate optimized Vercel configuration
 
 ## Install
