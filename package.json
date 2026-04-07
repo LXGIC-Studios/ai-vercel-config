@@ -1,5 +1,5 @@
 {
-  "name": "ai-vercel-config",
+  "name": "@lxgicstudios/ai-vercel-config",
   "version": "1.0.0",
   "description": "AI-powered Vercel config generator - optimized vercel.json with GPT",
   "main": "dist/index.js",
