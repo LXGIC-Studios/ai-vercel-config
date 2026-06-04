@@ -24,7 +24,7 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered Vercel config generator - SEO-optimized optimized vercel.json with GPT.
+> AI-powered Vercel config generator - SEO-optimized vercel.json with GPT.
 
 ## 🚀 Features
 
