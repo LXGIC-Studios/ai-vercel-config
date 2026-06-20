@@ -8,7 +8,7 @@
     "ai-vercel-config": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,13 +31,20 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-vercel-config",
+  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-vercel-config",
   "keywords": [
-    "vercel",
+    "canonical-urls",
+    "configuration",
     "deployment",
-    "serverless",
     "edge",
-    "configuration"
+    "edge-seo",
+    "generative-engine-optimization",
+    "geo",
+    "hreflang",
+    "may-2026-core-update",
+    "serverless",
+    "url-structure",
+    "vercel"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -48,7 +55,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
     "directory": "ai-vercel-config"
   },
   "scripts": {
