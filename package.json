@@ -44,7 +44,9 @@
     "may-2026-core-update",
     "serverless",
     "url-structure",
-    "vercel"
+    "vercel",
+    "2026-standards",
+    "modern-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
