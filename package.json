@@ -38,15 +38,10 @@
     "deployment",
     "edge",
     "edge-seo",
-    "generative-engine-optimization",
-    "geo",
     "hreflang",
-    "may-2026-core-update",
     "serverless",
     "url-structure",
-    "vercel",
-    "2026-standards",
-    "modern-seo"
+    "vercel"
   ],
   "license": "MIT",
   "main": "dist/index.js",
