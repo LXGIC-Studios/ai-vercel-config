@@ -47,10 +47,7 @@
     "devtools",
     "edge",
     "edge-seo",
-    "gpt",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "gpt"
   ],
   "license": "MIT",
   "main": "dist/index.js",
